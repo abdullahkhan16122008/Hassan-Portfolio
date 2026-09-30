@@ -8,7 +8,7 @@ import { useToast } from "@/hooks/use-toast";
 import axios from "axios";
 
 const contactInfo = [
-  { icon: Mail, label: "Email", value: "abdullahkhan16122008@gmail.com", href: "mailto:abdullahkhan16122008@gmail.com" },
+  { icon: Mail, label: "Email", value: "hasanahmed.agency8@gmail.com", href: "mailto:abdullahkhan16122008@gmail.com" },
   { icon: MapPin, label: "Location", value: "Latifabad unit: 10,  Hyderabad, Sindh, Pakistan", href: "#" },
   { icon: Phone, label: "Phone", value: "+92 3046640361", href: "tel:+923046640361" },
 ];
