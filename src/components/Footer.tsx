@@ -18,7 +18,7 @@ export function Footer() {
             viewport={{ once: true }}
             className="text-muted-foreground text-sm flex items-center gap-1"
           >
-            © {new Date().getFullYear()} Abdullah Riaz. Built with{" "}
+            © {new Date().getFullYear()} Hasan Ansari. Built with{" "}
             <Heart className="h-4 w-4 text-destructive fill-current" /> using React & Tailwind
           </motion.p>
 
