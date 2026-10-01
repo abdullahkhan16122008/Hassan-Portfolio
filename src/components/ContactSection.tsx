@@ -8,14 +8,14 @@ import { useToast } from "@/hooks/use-toast";
 import axios from "axios";
 
 const contactInfo = [
-  { icon: Mail, label: "Email", value: "hasanahmed.agency8@gmail.com", href: "mailto:abdullahkhan16122008@gmail.com" },
+  { icon: Mail, label: "Email", value: "hasanahmed.agency@gmail.com", href: "mailto:hasanahmed.agency@gmail.com" },
   { icon: MapPin, label: "Location", value: "Latifabad unit: 10,  Hyderabad, Sindh, Pakistan", href: "#" },
-  { icon: Phone, label: "Phone", value: "+92 3046640361", href: "tel:+923046640361" },
+  { icon: Phone, label: "Phone", value: "+92 3341834018", href: "tel:+923341834018" },
 ];
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/abdullahkhan16122008", label: "GitHub" },
-  { icon: Instagram, href: "https://www.instagram.com/abdullah_khan_on_top/", label: "Instagram" },
+  // { icon: Instagram, href: "https://www.instagram.com/abdullah_khan_on_top/", label: "Instagram" },
   // { icon: Twitter, href: "#", label: "Twitter" },
 ];
 
